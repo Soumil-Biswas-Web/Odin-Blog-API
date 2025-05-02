@@ -1,6 +1,6 @@
 # Odin-Blog-API
 
-A basic blog site for a users to View and Comment on the creator's blogs. 
+A basic blog site for users to View and Comment on the creator's blogs. 
 This website uses a custom built Restful API to fetch site data.
 Created Using React.js for the Front End and Node.js and express for the Backend.
 
